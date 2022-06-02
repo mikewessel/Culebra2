@@ -1,10 +1,17 @@
-name: "Culebra"
+name: "Culebra LBSP"
 navbar:
-  title: "Culebra"
+  title: "Culebra LBSP"
   left:
     - text: "HomePage"
       href: index.html
-
-output_dir: "."
+    - text: "2014 Seagrass"
+      href: Report.html
+    - text: "Water Quality"
+      href: Appendices.html
+  output_dir: "."
 css: styles.css
+
+
+
+
 
