@@ -1,0 +1,10 @@
+name: "Culebra"
+navbar:
+  title: "Culebra"
+  left:
+    - text: "HomePage"
+      href: index.html
+
+output_dir: "."
+css: styles.css
+
